@@ -12,6 +12,6 @@ export default {
 
 <style lang="less" scoped>
 .container {
-  color: pink;
+  color: skyblue;
 }
 </style>
