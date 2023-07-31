@@ -3,7 +3,7 @@
     <img src="@/assets/img/eat.jpg" alt="">
   </div>
 </template>
-
+awdwadwa
 <script>
 export default {
   name: 'eatEveryThing'
