@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "李昊",
+      "username": "MrNobody",
+      "department": "财务部",
+      "phone": "13888888888",
+      "userStatus": true,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "木子日天",
+      "username": "wtf",
+      "department": "工程部",
+      "phone": "13666666666",
+      "userStatus": false,
+      "status": false
+    },
+    {
+      "id": "2023-07-21T01:39:21.326Z",
+      "department": "财务部",
+      "name": "凌波丽",
+      "phone": "11111111111",
+      "username": "toTheMoon",
+      "userStatus": true,
+      "type": "",
+      "status": true
+    }
+  ]
+}
