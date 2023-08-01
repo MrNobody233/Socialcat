@@ -1,5 +1,5 @@
 # kfc
-
+好玩呢
 ## Project setup
 ```
 yarn install
